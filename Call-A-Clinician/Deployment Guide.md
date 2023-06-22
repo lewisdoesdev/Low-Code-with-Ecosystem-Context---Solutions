@@ -63,7 +63,11 @@ Finally, click import.
 For more information, and guidance on deploying this solution including this deployment guide with screenshots and images, check out this content on [Low Code Lewis](https://lowcodelewis.com/blog/call-a-clinician-install-and-configure-the-solution-sample).
 
 You can also build this solution yourself by following these posts.
+
 [Building with context - Call a clinician Part 1](https://lowcodelewis.com/blog/building-with-context-call-a-clinician-part-1)
+
 [Call a Clinician - Part 2 - Building the custom connector](https://lowcodelewis.com/blog/call-a-clinician-part-2-building-the-custom-connector)
+
 [Call a Clinician - Part 3 - Surfacing presence information](https://lowcodelewis.com/blog/call-a-clinician-part-3-surfacing-presence-information)
+
 [Call a Clinician - Part 4 - Automating the contact message](https://lowcodelewis.com/blog/call-a-clinician-part-3-surfacing-presence-information)
